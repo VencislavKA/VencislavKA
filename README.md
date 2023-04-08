@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VencislavKA&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
 
 
 <h1 align="center">Hi 👋, I'm Vencislav</h1>
@@ -34,3 +34,4 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vencislavka&show_icons=true&locale=en&layout=compact" alt="vencislavka" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vencislavka&show_icons=true&locale=en" alt="vencislavka" /></p>
+<p align="right" >[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=VencislavKA&theme=transparent&hide_border=true)](https://git.io/streak-stats)</p>
