@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/e.detence" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="венцислав ненов" height="30" width="40" /></a>
-<a href="https://instagram.com/ventsislavnenov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ventsislavnenov" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ventsislavnenov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ventsislavnenov" height="30" width="40" /></a>
 <a href="https://discord.gg/2283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2283" height="30" width="40" /></a>
 </p>
 
