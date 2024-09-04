@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VencislavKA&theme=gruvbox&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VencislavKA&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<img src="https://raw.githubusercontent.com/VencislavKA/VencislavKA/output/snake.svg" alt="Snake animation" />
-
-###
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
